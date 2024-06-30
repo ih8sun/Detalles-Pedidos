@@ -29,7 +29,7 @@ public class InicioSesionActivity extends AppCompatActivity implements View.OnCl
     // DIRECCION LOCAL
     //private static final String base = "http://192.168.18.101:3000/api/";
     //DIRECCION EN PRODUCCION
-    private static final String base = "http://54.158.60.171:3000/api/";
+    private static final String base = "http://3.84.45.234:3000/api/";
     EditText txtCorreo, txtClave;
     Button btnIniciar, btnSalir;
     TextView lblRegistro;

@@ -27,7 +27,7 @@ public class EditarPerfilActivity extends AppCompatActivity {
     //DIRECCION EN LOCALHOST
 //    private static final String base = "http://192.168.18.101:3000/api/";
     //DIRECCION EN PRODUCCION
-    private static final String base = "http://54.158.60.171:3000/api/";
+    private static final String base = "http://3.84.45.234:3000/api/";
     CustomerService customerService = ClienteClient.getClient(base).create(CustomerService.class);
     EditText correoET, nombres, apellidos, telefono,clave;
     String correo;
