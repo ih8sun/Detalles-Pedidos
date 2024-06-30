@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">Detalles Creativos</string>
+    <string name="logTxtCorreo">Correo</string>
+    <string name="logTxtNombre">Nombres</string>
+    <string name="logTxtApellido">Apellido</string>
+    <string name="logTxtTelefono">Telefono</string>
+    <string name="logTxtClave">Clave</string>
+    <string name="logoOlvcontra">¿Olvidaste tu contraseña?</string>
+    <string name="logChkRecordar">Recordar sesión</string>
+    <string name="logBtnIniciar">Iniciar</string>
+    <string name="logBtnSalir">Salir</string>
+    <string name="logNrTarjeta">Numero de Tarjeta</string>
+    <string name="logLblRegistro">¡Regístrate!</string>
+    <string name="logLblDerechos">Copy Right Chamba solution 2024</string>
+    <string name="bieLblSaludo">Bienvenido @user</string>
+    <string name="copyright_chamba_solution_2024">© copyright Chamba Solution 2024</string>
+    <string name="OlvidoContraseña">¿Olvidaste la contraseña?</string>
+    <string name="logBtnRegresar">Regresar</string>
+    <string name="logBtnAñadirTarjeta">Añadir Tarjeta</string>
+    <string name="logNumeroTajeta">Número de tarjeta</string>
+    <string name="logNombreTajeta">Nombrede tarjeta</string>
+    <string name="logFechaTajetaDeCaducidad">Fecha de Caducidad</string>
+    <string name="logCvv">CVV</string>
+    <string name="logBtnRegistrarTarjeta">Registrar Tarjeta</string>
+    <string name="logBtnRecuperarContra">BUSCAR</string>
+    <string name="logBtnRecuperarCancelar">CANCELAR</string>
+    <string name="recuContraTitulo">titulo</string>
+    <string name="txtrecuperarcontra">Por favor ingresa su correo para busacr su cuenta</string>
+    <string name="chckbox">chckbox</string>
+    <string name="chkRecordar">Recordar</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

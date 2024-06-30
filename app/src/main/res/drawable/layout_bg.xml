@@ -1,0 +1,5 @@
+<android:shape xmlns:android="http://schemas.android.com/apk/res/android"
+    android:shape="rectangle">
+    <android:corners android:radius="20dp" /> <!-- El valor de "0dp" determina el radio de las esquinas redondeadas -->
+    <android:solid android:color="#efefef" /> <!-- Color de fondo del LinearLayout -->
+</android:shape>
